@@ -8,24 +8,25 @@ KostLine adalah sebuah website e-commerce house rent yang menawarkan penyewaan k
 go to the web browser and put http://localhost:9090/index into the page url
 
 note :
+======
+1. daftar anggota?lead?
+2. deskripsi singkat?
+3. Simple Flowchart
+4. Simple UML digram
+5. Simple Class Diagram
 
-daftar anggota?lead?
-deskripsi singkat?
-Simple Flowchart
-Simple UML digram
-Simple Class Diagram
 version history :
+=================
+**0.0.1**
 
-0.0.1
+* first commit
+**0.0.2**
 
-first commit
-0.0.2
+* create documentation
+* add UML diagram
+**0.0.3**
 
-create documentation
-add UML diagram
-0.0.3
-
-add java web mvc
-add bootstrap framework
-add main controller
-add index.html
+* add java web mvc
+* add bootstrap framework
+* add main controller
+* add index.html
